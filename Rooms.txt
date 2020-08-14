@@ -1,0 +1,7 @@
+Room Number ~ Room Name ~ Room Description ~ Visited ~ N,E,S,W indicating which room the player can go to (0 == no & any number greater than or equal to 1 means yes while each number represents which room they can go to)
+1~Outside Building~You are standing outside your clean new brick house. The Birds are chirping and the sun is shining.~false~0,2,3,0
+2~Living room~You walk into the living room where you see a couch and a TV.~false~0,0,4,1
+3~Kitchen~You walk into the kitchen where you see a refrigerator, a pantry and a sink. ~false~1,4,5,0
+4~Dining room~You walk into the Dining room where you see a table and some chairs.~false~2,0,6,3
+5~Guest room~You walk into the Guest room where you see a bed and a closet.~false~3,6,0,0
+6~Bathroom~You walk into the bathroom where you see a toilet, a sink, and a mirror.~false~4,0,0,5

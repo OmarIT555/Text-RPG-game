@@ -1,0 +1,4 @@
+Item Number ~ Item Name ~ Item Description ~ Room Location ~ Attack Damage ~ Heal Points
+1~Pen~A metal pen with a plastic tip. The Pen is filled with ink.~2~10~0
+2~Banana~A yellow fruit with some hints of green. Shaped like crescent moon.~3~0~20
+3~Book~A new red composition book with blank pages.~5~5~0

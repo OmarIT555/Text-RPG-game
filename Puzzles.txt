@@ -1,0 +1,4 @@
+Puzzle Number ~ Puzzle Name ~ Puzzle Description ~ Answer ~ NumberOfAttempts
+1~Birds~One bird is on a tree, two are on the powerline. How many birds are there?~3~3
+2~Dishes~The sink has 20 dishes on one side and 30 dishes on the other that need to be cleaned. How many dishes are there?~50~3
+3~Bathroom~There are 5 bars of soap. You use one bar of soap every week. How many weeks can 5 bars of soap last?~5~3

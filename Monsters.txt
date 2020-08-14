@@ -1,0 +1,2 @@
+Monster health ~ Monster Attack ~ Monster threshold ~ Monster Name ~ Monster description
+50~10~20~Alien Crocodile~A white and green scaled crocodile with razor sharp teeth.
